@@ -1,0 +1,6 @@
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

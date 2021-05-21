@@ -1,0 +1,13 @@
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\bin\Debug\TaxiMeter.exe.config
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\bin\Debug\TaxiMeter.exe
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\bin\Debug\TaxiMeter.pdb
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\obj\Debug\TaxiMeter.csprojAssemblyReference.cache
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\obj\Debug\TaxiMeter.Properties.Resources.resources
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\obj\Debug\TaxiMeter.csproj.GenerateResource.cache
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\obj\Debug\TaxiMeter.csproj.CoreCompileInputs.cache
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\obj\Debug\TaxiMeter.exe
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\obj\Debug\TaxiMeter.pdb
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\bin\Debug\DataAccessLayer.dll
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\bin\Debug\DataAccessLayer.pdb
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\obj\Debug\TaxiMeter.csproj.CopyComplete
+C:\Users\gkdmt\Documents\Edu\2- Projects\6- TaxiMeter\TaxiMeter\TaxiMeter\obj\Debug\TaxiMeter.TaxiTimer.resources
